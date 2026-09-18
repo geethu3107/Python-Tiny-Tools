@@ -1,4 +1,4 @@
-# 🐍 Python Mini Projects
+# 🐍 Python Practice Kit
 
 A collection of small Python programs built to practice fundamental programming concepts through simple, interactive applications.
 
